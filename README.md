@@ -1,4 +1,4 @@
-# Favvy-chan - Counter app
+# Favvychan - Counter app
 
 ## Welcome!
 
@@ -19,8 +19,8 @@ This is my first project and I can say that in everything coding will be worth t
 ## Author
 
 -Twitter- 
-[@phafor] 
-(https://www.twitter.com/phafor)
+[@pha_for] 
+(https://www.twitter.com/pha_for)
 
 ## Appreciation
 
